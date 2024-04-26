@@ -1,0 +1,5 @@
+![image](https://github.com/TamirisCarv/validacao-cartao-node/assets/114781501/d17997cb-3899-4517-8ca7-3e3e4e1d005d)
+![image](https://github.com/TamirisCarv/validacao-cartao-node/assets/114781501/ed000bbe-b9e4-4aef-927c-f3ee178c99d4)
+![image](https://github.com/TamirisCarv/validacao-cartao-node/assets/114781501/2c4d2503-8419-4bed-84dc-e6afcaa2f033)
+![image](https://github.com/TamirisCarv/validacao-cartao-node/assets/114781501/247b6946-dea7-4747-8a11-8ee835056f0d)
+![image](https://github.com/TamirisCarv/validacao-cartao-node/assets/114781501/b5de8962-53fd-4a67-8177-7ae7de72e2fa)
